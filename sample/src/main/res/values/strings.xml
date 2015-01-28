@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android-ExpandableListFragment</string>
+    <string name="emptyText">Empty!</string>
+</resources>
