@@ -3,6 +3,9 @@ Android-ExpandableListFragment
 
 Android-ExpandableListFragment provides ExpandableListFragment and BindableExpandableListAdapter.
 
+## Demo
+[<img src="https://dply.me/kjn2vu/button/large" alt="Try it on your device via DeployGate">](https://dply.me/kjn2vu#install)
+
 ## Dependencies
 
 Adding it as a dependency to your project's build.gradle.
